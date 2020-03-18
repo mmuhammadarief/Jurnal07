@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jurnal07</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="diary">Diary</string>
+    <string name="clear">clear</string>
+    <string name="saave">saave</string>
+</resources>
